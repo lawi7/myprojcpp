@@ -8,7 +8,7 @@ int main()
     *pt = 1001;
 
     cout << "nights value = ";
-    cout << nights << ": location " << &night << endl;
+    cout << nights << ": location " << &nights << endl;
     cout << "int ";
     cout << "value = " << *pt << ": location = " << pt << endl;
 
