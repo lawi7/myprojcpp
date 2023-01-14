@@ -2,6 +2,8 @@
 
 int main()
 {
-    std::cout << "Hello World!" << std::endl;
+    using namespace std;
+
+    cout << "Hello World!" << endl;
     return 0;
 }
